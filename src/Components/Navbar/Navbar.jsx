@@ -1,5 +1,8 @@
 import { NavLink } from 'react-router-dom';
 import Logo from '../../../public/Logo.png'
+import { CiSearch } from "react-icons/ci";
+import { GiShoppingCart } from "react-icons/gi";
+
 
 const Navbar = () => {
     return (
@@ -31,9 +34,15 @@ const Navbar = () => {
                  </NavLink>
                 </ul>
             </div>
-            <div className='my-auto'>
-              <button className='btn text-white bg-red-500'>Log in</button>
-            </div>
+            <div className='flex gap-2'>
+                <div className='flex gap-2 items-center'>
+                    <div><CiSearch /></div>
+                    <div><GiShoppingCart /></div>
+                </div>
+                <div className='my-auto'>
+                    <button className='btn text-white bg-red-500'>Log in</button>
+                </div>
+           </div>
         </div>
     );
 };
