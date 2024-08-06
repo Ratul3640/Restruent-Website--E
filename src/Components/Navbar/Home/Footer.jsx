@@ -3,7 +3,7 @@ import Logo from '../../../../public/Logo.png'
 
 const Footer = () => {
     return (
-        <div className='bg-gray-500 relative mt-28 h-[800px]'>
+        <div className='bg-gray-500 relative rounded mt-28 h-[800px]'>
             <div className=' opacity-90 absolute'>
 
                 <img src={footer} alt="" />

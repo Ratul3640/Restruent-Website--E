@@ -4,6 +4,7 @@ import App from './App.jsx'
 import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Home from './Components/Navbar/Home/Home.jsx'
+import Menu from './Components/Navbar/Home/Menu.jsx'
 
 const routes = createBrowserRouter([
   {
@@ -13,6 +14,11 @@ const routes = createBrowserRouter([
       {
         path: '/',
         element:<Home></Home>
+      },
+      {
+        path: '/Menu',
+        element: <Menu></Menu>,
+        loader: ()=>{return fetch('../public/foods.json')}
       }
     ]
   }
