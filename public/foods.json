@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Margherita",
+        "photo": "https://i.ibb.co/P9t1dDH/feature1.png",
+        "category": "Vegetarian",
+        "details": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
+        "price": 8.99
+    },
+    {
+        "id": 2,
+        "name": "Pepperoni",
+        "photo": "https://i.ibb.co/LJCrsKN/feature2.png",
+        "category": "Meat",
+        "details": "A popular pizza topped with tomato sauce, mozzarella cheese, and pepperoni slices.",
+        "price": 9.99
+    },
+    {
+        "id": 3,
+        "name": "BBQ Chicken",
+        "photo": "https://i.ibb.co/0MWMfX4/feature3.png",
+        "category": "Meat",
+        "details": "Tangy BBQ sauce, mozzarella cheese, grilled chicken, red onions, and cilantro.",
+        "price": 11.99
+    },
+    {
+        "id": 4,
+        "name": "Hawaiian",
+        "photo": "https://i.ibb.co/WvvSFFT/feature4.png",
+        "category": "Meat",
+        "details": "Tomato sauce, mozzarella cheese, ham, and pineapple.",
+        "price": 10.99
+    },
+    {
+        "id": 5,
+        "name": "Veggie Supreme",
+        "photo": "https://i.ibb.co/WDNdKMj/feature5.png",
+        "category": "Vegetarian",
+        "details": "Tomato sauce, mozzarella cheese, bell peppers, onions, mushrooms, olives, and tomatoes.",
+        "price": 10.49
+    },
+    {
+        "id": 6,
+        "name": "Four Cheese",
+        "photo": "https://i.ibb.co/10YzJ23/pizza5.jpg",
+        "category": "Vegetarian",
+        "details": "A blend of mozzarella, cheddar, parmesan, and blue cheese on tomato sauce.",
+        "price": 10.99
+    },
+    {
+        "id": 7,
+        "name": "Meat Lovers",
+        "photo": "https://i.ibb.co/hgnv3xW/pizza7.jpg",
+        "category": "Meat",
+        "details": "Tomato sauce, mozzarella cheese, pepperoni, sausage, ham, and bacon.",
+        "price": 12.99
+    },
+    {
+        "id": 8,
+        "name": "Buffalo Chicken",
+        "photo": "https://i.ibb.co/NWBXt2S/pizza8.jpg",
+        "category": "Meat",
+        "details": "Spicy buffalo sauce, mozzarella cheese, grilled chicken, and blue cheese crumbles.",
+        "price": 11.49
+    },
+    {
+        "id": 9,
+        "name": "Mushroom",
+        "photo": "https://i.ibb.co/n8FWtZY/pizza9.jpg",
+        "category": "Vegetarian",
+        "details": "Garlic sauce, mozzarella cheese, and a generous amount of fresh mushrooms.",
+        "price": 9.49
+    },
+    {
+        "id": 10,
+        "name": "Spinach & Feta",
+        "photo": "https://i.ibb.co/SXppdyr/pizza10.jpg",
+        "category": "Vegetarian",
+        "details": "Garlic sauce, mozzarella cheese, spinach, and feta cheese.",
+        "price": 10.49
+    },
+     {
+        "id": 1,
+        "name": "Margherita",
+        "photo": "https://i.ibb.co/P9t1dDH/feature1.png",
+        "category": "Vegetarian",
+        "details": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
+        "price": 8.99
+    },
+    {
+        "id": 2,
+        "name": "Pepperoni",
+        "photo": "https://i.ibb.co/LJCrsKN/feature2.png",
+        "category": "Meat",
+        "details": "A popular pizza topped with tomato sauce, mozzarella cheese, and pepperoni slices.",
+        "price": 9.99
+    },
+    {
+        "id": 3,
+        "name": "BBQ Chicken",
+        "photo": "https://i.ibb.co/0MWMfX4/feature3.png",
+        "category": "Meat",
+        "details": "Tangy BBQ sauce, mozzarella cheese, grilled chicken, red onions, and cilantro.",
+        "price": 11.99
+    },
+    {
+        "id": 4,
+        "name": "Hawaiian",
+        "photo": "https://i.ibb.co/WvvSFFT/feature4.png",
+        "category": "Meat",
+        "details": "Tomato sauce, mozzarella cheese, ham, and pineapple.",
+        "price": 10.99
+    },
+    {
+        "id": 5,
+        "name": "Veggie Supreme",
+        "photo": "https://i.ibb.co/WDNdKMj/feature5.png",
+        "category": "Vegetarian",
+        "details": "Tomato sauce, mozzarella cheese, bell peppers, onions, mushrooms, olives, and tomatoes.",
+        "price": 10.49
+    },
+    {
+        "id": 6,
+        "name": "Four Cheese",
+        "photo": "https://i.ibb.co/10YzJ23/pizza5.jpg",
+        "category": "Vegetarian",
+        "details": "A blend of mozzarella, cheddar, parmesan, and blue cheese on tomato sauce.",
+        "price": 10.99
+    },
+    {
+        "id": 7,
+        "name": "Meat Lovers",
+        "photo": "https://i.ibb.co/hgnv3xW/pizza7.jpg",
+        "category": "Meat",
+        "details": "Tomato sauce, mozzarella cheese, pepperoni, sausage, ham, and bacon.",
+        "price": 12.99
+    },
+    {
+        "id": 8,
+        "name": "Buffalo Chicken",
+        "photo": "https://i.ibb.co/NWBXt2S/pizza8.jpg",
+        "category": "Meat",
+        "details": "Spicy buffalo sauce, mozzarella cheese, grilled chicken, and blue cheese crumbles.",
+        "price": 11.49
+    },
+    {
+        "id": 9,
+        "name": "Mushroom",
+        "photo": "https://i.ibb.co/n8FWtZY/pizza9.jpg",
+        "category": "Vegetarian",
+        "details": "Garlic sauce, mozzarella cheese, and a generous amount of fresh mushrooms.",
+        "price": 9.49
+    },
+    {
+        "id": 10,
+        "name": "Spinach & Feta",
+        "photo": "https://i.ibb.co/SXppdyr/pizza10.jpg",
+        "category": "Vegetarian",
+        "details": "Garlic sauce, mozzarella cheese, spinach, and feta cheese.",
+        "price": 10.49
+    }
+]
