@@ -40,7 +40,7 @@ const Navbar = () => {
                     <div><GiShoppingCart /></div>
                 </div>
                 <div className='my-auto'>
-                    <button className='btn text-white bg-red-500'>Log in</button>
+                    <button className='btn btn-sm w-18 h-10 text-white bg-red-500'>Log in</button>
                 </div>
            </div>
         </div>

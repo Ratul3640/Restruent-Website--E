@@ -33,7 +33,7 @@ const Card = () => {
                                 <p className="text-start mr-3 my-2">{e?.price}</p>
                             </div>
                         </div>
-                        <button className='btn bg-red-500 flex w-fit  justify-center ml-auto  text-white'>Order </button>
+                        <button className='btn bg-red-500 flex w-fit  justify-center ml-auto  text-white btn-sm w-18 h-10'>Order </button>
                     </div>)
                 }
             </div>
