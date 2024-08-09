@@ -1,10 +1,14 @@
-import { NavLink } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 import Logo from '../../../public/Logo.png'
 import { CiSearch } from "react-icons/ci";
 import { GiShoppingCart } from "react-icons/gi";
 
 
 const Navbar = () => {
+
+    const nevigate = useNavigate();
+
+
     return (
         <div className='flex justify-between'>
             <div>
@@ -39,8 +43,8 @@ const Navbar = () => {
                     <div><CiSearch /></div>
                     <div><GiShoppingCart /></div>
                 </div>
-                <div className='my-auto'>
-                    <button className='btn btn-sm w-18 h-10 text-white bg-red-500'>Log in</button>
+                <div onClick={() => nevigate("login")} className='my-auto'>
+                    <button  className='btn btn-sm w-18 h-10 text-white bg-red-500'>Log in</button>
                 </div>
            </div>
         </div>
